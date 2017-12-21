@@ -1,0 +1,14 @@
+[0m[[0m[31merror[0m] [0m[0m/media/sf_student/play-java-seed/app/controllers/models/Product.java:4:1: package javax.persistence does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport javax.persistence.*;[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_student/play-java-seed/app/controllers/models/Product.java:6:1: package io.ebean does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport io.ebean.*;[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_student/play-java-seed/app/controllers/models/Product.java:11:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Model[0m
+[0m[[0m[31merror[0m] [0m[0mpublic class Product extends Model {[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_student/play-java-seed/app/controllers/models/Product.java:9:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Entity[0m
+[0m[[0m[31merror[0m] [0m[0m@Entity[0m
+[0m[[0m[31merror[0m] [0m[0m/media/sf_student/play-java-seed/app/controllers/models/Product.java:14:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Id[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class models.Product[0m
+[0m[[0m[31merror[0m] [0m[0m@Id[0m
